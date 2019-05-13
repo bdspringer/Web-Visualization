@@ -1,4 +1,4 @@
-# Web Visualization Dashboard (Latitude-WeatherPy)
+# Web Visualization Dashboard
 ## Data Visualization: https://github.com/bdspringer/bdspringer.github.io/blob/master/index.html
 
 #  Latitude - Latitude Analysis Dashboard 
@@ -36,7 +36,7 @@
 
 3. GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 
-       Your site is published at https://syu2017.github.io/Week12-Web-Visualization-Dashboard-Lattitude--HTML-Bootstrap/
+       Your site is published at https://github.com/bdspringer/bdspringer.github.io/blob/master/index.html
        
 
 4. Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)

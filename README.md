@@ -34,8 +34,8 @@
 
        HTML, style.css, output_data/fig, output_data/cities.csv, assets/css, assets/js
 
-3. GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
+3. GitHub Pages is used to host this website.
 
-       Your site is published at https://github.com/bdspringer/bdspringer.github.io/blob/master/index.html
+       This site is published at  https://bdspringer.github.io/
        
 
